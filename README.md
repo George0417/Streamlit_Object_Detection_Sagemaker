@@ -1,2 +1,2 @@
 # Streamlit-hellp-app
-first stream app deployed on heroku
+Detect object via AWS Sagemaker
